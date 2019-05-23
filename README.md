@@ -1,0 +1,1 @@
+This is an example project with a command "Hello World".
